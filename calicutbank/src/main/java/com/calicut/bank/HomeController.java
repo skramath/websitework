@@ -1,4 +1,4 @@
-package com.java.bank;
+package com.calicut.bank;
 
 import java.text.DateFormat;
 import java.util.Date;

@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.java.bank">
+	<logger name="com.calicut.bank">
 		<level value="info" />
 	</logger>
 	

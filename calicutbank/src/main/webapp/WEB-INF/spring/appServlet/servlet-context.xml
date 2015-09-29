@@ -21,7 +21,7 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
-	<context:component-scan base-package="com.java.bank" />
+	<context:component-scan base-package="com.calicut.bank" />
 	
 	
 	
