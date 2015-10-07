@@ -37,8 +37,11 @@ public class HomeController {
 		return "home";
 	}
 	
+
 	public void branchReasingwithmaster(){
-		
+	}
+	
+	public void rebaseTesting(){
 	}
 	
 }
