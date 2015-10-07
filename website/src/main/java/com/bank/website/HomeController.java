@@ -37,4 +37,8 @@ public class HomeController {
 		return "home";
 	}
 	
+	public void branchReasingwithmaster(){
+		
+	}
+	
 }
