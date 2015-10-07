@@ -44,4 +44,7 @@ public class HomeController {
 	public void rebaseTesting(){
 	}
 	
+	public void masterAddead(){
+		
+	}
 }
