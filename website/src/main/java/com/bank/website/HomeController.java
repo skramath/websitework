@@ -37,25 +37,8 @@ public class HomeController {
 		return "home";
 	}
 	
+	void removingAllMethidsFromBranch(){
 
-	public void branchReasingwithmaster(){
 	}
-	
-	public void rebaseTesting(){
-	}
-	
-
-	public void masterAddead(){
-		
-	}
-	
-
-	public void masterAddeadAgain(){
-		
-	}
-
-	public void branchAdded(){
-	}
-
 
 }
