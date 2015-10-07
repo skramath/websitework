@@ -32,7 +32,8 @@ public class HomeController {
 		String formattedDate = dateFormat.format(date);
 		
 		model.addAttribute("serverTime", formattedDate );
-		//making changes to the file again 
+		//making changes to the file again
+		//mAking chages for rebase with master
 		return "home";
 	}
 	
