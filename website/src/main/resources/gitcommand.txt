@@ -1,0 +1,25 @@
+$ git checkout -b [name_of_your_new_branch]
+Push the branch on github :
+$ git push origin [name_of_your_new_branch]
+
+Step to rebase 
+---------------------
+git checkout master
+git pull origin master
+
+git checkout feature
+git rebase master
+
+once feature is rebased with master -  commit the feature
+Step to merge feature to master
+--------------------------------
+git checkout master
+git pull origin master
+git merge feature
+
+
+Links - Rebasing and Merging 
+--------------------------
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing/workflow-walkthrough
